@@ -1,0 +1,15 @@
+
+.navbar {
+    background-color:#083982; /* Puedes cambiar el valor hexadecimal a tu tono de azul deseado */
+    /* Otros estilos adicionales según sea necesario */
+}
+.nav-link{
+    color:white;
+}
+main {
+    background-image: url('Imagen/index.jpeg');
+    background-size: cover; /* Para cubrir todo el área del contenedor */
+    background-position: center; /* Para centrar la imagen */
+    height: 100vh; /* Altura igual al 100% de la ventana visible */
+    /* Otros estilos según sea necesario */
+}
